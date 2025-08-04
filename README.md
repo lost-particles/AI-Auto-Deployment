@@ -156,13 +156,23 @@ npm install -g vercel netlify-cli railway
 
 ---
 
-## 📜 License
-
-MIT
-
----
-
 ## 🤝 Contributing
 
 PRs and issues welcome! Feel free to fork and build new features.
+
+---
+
+## 📚 Sources and Dependencies
+
+| Source/Dependency                                                     | Description                                                             |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Click](https://palletsprojects.com/p/click/)                         | Used for building CLI interfaces                                        |
+| [google-generativeai](https://github.com/google/generative-ai-python) | To interact with Gemini (Generative AI model)                           |
+| [python-terraform](https://github.com/beelit94/python-terraform)      | Python wrapper to manage Terraform workflows                            |
+| [Terraform CLI](https://developer.hashicorp.com/terraform/cli)        | Used to provision infrastructure                                        |
+| [Vercel CLI](https://vercel.com/docs/cli)                             | Native CLI for deploying to Vercel                                      |
+| [Netlify CLI](https://docs.netlify.com/cli/get-started/)              | Native CLI for deploying to Netlify                                     |
+| [Railway CLI](https://docs.railway.app/develop/cli)                   | Native CLI for deploying to Railway                                     |
+| [GitHub](https://github.com/)                                         | Used for cloning and analyzing repositories                             |
+| [Gemini API](https://makersuite.google.com/app)                       | Core LLM used to understand user intent, app type, and generate configs |
 
