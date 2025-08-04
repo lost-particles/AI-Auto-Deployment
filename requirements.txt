@@ -1,0 +1,6 @@
+google-generativeai>=0.3.2
+click>=8.0.0
+requests>=2.31.0
+GitPython>=3.1.40
+keyring>=24.3.0
+python-terraform==0.10.1
